@@ -17,6 +17,8 @@ Currently there are 2 files:
  
 ### Example:
   
+  ###### Warning! Some symbols like spaces, tabs, new_line etc. are replaced in saved file by thier abbreviations; e.g. space - SP, Tab - TB... In the console output, however, they are not replaced (I might change it later). 
+  
   Sample input: 
   
                The quick brown fox jumps over the lazy dog 1234 56789 99 ()[];'<>?!@#$%^&*
